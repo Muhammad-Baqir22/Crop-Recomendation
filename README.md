@@ -35,6 +35,6 @@ Notes:
 - Designed for educational and small-scale use.
 
 Author:
-Your Name
+Muhammad Baqir
 Date: 2025
 
